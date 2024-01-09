@@ -1,0 +1,18 @@
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.btn button {
+    height: 5rem;
+    width: 20vw;
+    background-color: #6DB48A;
+    color: white;
+    font-size: 35px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    font-weight: 700;
+}
